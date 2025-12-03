@@ -50,3 +50,5 @@ software:
   packages:
     - path: ../lib/windows/software/cloudflare-warp.yml
       self_service: false
+    - path: ../lib/macos/software/packages.package.yml
+      self_service: true

@@ -1,0 +1,6 @@
+# Packages (Install Packages.pkg) version 1.2.10
+- hash_sha256: 36d464771de1880dd5d850f69cc9fc64fa9522a8894857563067039e3578be98
+  install_script:
+    path: ../scripts/install-packages.sh
+  uninstall_script:
+    path: ../scripts/uninstall-packages.sh
